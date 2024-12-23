@@ -25,7 +25,7 @@ DlgProc			PROTO	:HWND, :UINT, :WPARAM, :LPARAM
     hInstance			dd ?
 
 .data
-    nomUsuario          dq 0, 0
-    nSerie				dq 0, 0
+    nomUsuario                 dq 0, 0
+    nSerie		       dq 0, 0
     
 ; ************************************************************************
